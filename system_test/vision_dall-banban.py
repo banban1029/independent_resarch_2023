@@ -1,4 +1,4 @@
-
+#犬の画像生成テスト
 # https://note.com/msfmnkns/n/n846bd5a61583
 import glob
 import base64

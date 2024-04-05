@@ -1,4 +1,4 @@
-
+# Description: GPT-4を使って画像から文章を生成する
 # https://note.com/msfmnkns/n/n846bd5a61583
 import glob
 import base64

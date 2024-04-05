@@ -1,4 +1,4 @@
-
+# gradioの使い方
 # # GPU
 # import torch
 # torch.cuda.is_available()

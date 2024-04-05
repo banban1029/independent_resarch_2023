@@ -1,6 +1,6 @@
-
 # https://kuruton.hatenablog.com/entry/2020/07/16/105306#%E3%83%AA%E3%82%B9%E3%83%88%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B-1
 # https://magazine.techacademy.jp/magazine/49549
+# サーボ起動テスト
 import rclpy
 from rclpy.node import Node
 import numpy as np

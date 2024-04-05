@@ -1,5 +1,6 @@
 # https://note.com/npaka/n/ne99c12b77ebc
 # https://qiita.com/Rihoritsuko/items/6b95203e50ce9123be57
+# dalle3の使い方
 
 from io import BytesIO
 from PIL import Image
